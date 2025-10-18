@@ -26,7 +26,7 @@ Example (`sample_graph.csv`):
 ```
 ## ⚡ 1. Java Implementations
 
-### GraphVisualizer.java – AWT-Based Renderer
+### AWT-Based Renderer
 Custom rendering using Java’s AWT and 2D Graphics APIs.
 
 ### 🔍 Features
@@ -39,7 +39,7 @@ cd java
 javac GraphVisualizer.java
 java GraphVisualizer sample_graph.csv
 ```
-### GraphVisualizerJUNG.java – JUNG Framework Renderer
+### JUNG Framework Renderer
 Uses JUNG (Java Universal Network/Graph Framework) for layout-based visualization.
 
 ### 🔍 Features
