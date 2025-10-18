@@ -10,7 +10,6 @@ It supports both **custom Java AWT rendering** and **Python NetworkX visualizati
 - 💡 Implemented in **both Java and Python** for cross-language learning  
 - 🎯 Compare manual graphics (Java AWT) vs. library-based visualization (JUNG, NetworkX)  
 - 🖼️ Includes example datasets and ready-to-run scripts
-- 
 ---
 
 ## 📊 Input Format
